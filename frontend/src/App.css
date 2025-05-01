@@ -1,0 +1,21 @@
+img {
+  width: 300px;
+  height: 300px;
+}
+
+
+
+.region-container{
+  text-align:center;
+  margin: 50px;
+  border: 1px solid #cccc;
+  transition: all 0.3s ease;
+}
+
+.region-container:hover{
+  border: 1px solid #ba0e0e;
+}
+
+.progress {
+  margin: 10px 0;
+}
